@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=initName\ initIDNum\ initStatus\ initGPA\ initEnrolledAge\ initDegree\ initNumCredits
+comment0.target=Undergraduate(java.lang.String,\ int,\ boolean,\ double,\ int,\ java.lang.String,\ int)
+comment0.text=\n\ [CONSTRUCTOR]\ Initializes\ the\ variables\ for\ an\ undergraduate\ object\n\ Undergraduate\ constructor\n\ @param\ initName\ The\ name\ of\ the\ student\n\ @param\ initIDNum\ The\ ID\ number\ of\ the\ student\n\ @param\ initStatus\ The\ student's\ fulltime\ status\n\ @param\ initGPA\ The\ student's\ current\ GPA\ as\ of\ the\ last\ official\ records\n\ @param\ initEnrolledAge\ The\ number\ of\ years\ the\ student\ has\ attended\ UP\ or\ university\ in\ general\n\ @param\ initDegree\ The\ student's\ field\ of\ study\n\ @param\ initNumCredits\ The\ number\ of\ credits\ the\ student\ has\ taken\ so\ far\n
+comment1.params=
+comment1.target=double\ getMinGPA()
+comment1.text=\n\ [ACCESSOR]\ Gets\ the\ minimum\ GPA\ allowed\ for\ an\ undergraduate\ student\n\ @return\ undergradMinGPA\ returns\ the\ minimum\ allowed\ GPA\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ [ACCESSOR]\ Gives\ a\ String\ representation\ of\ the\ object,\ showing\ a\ student's\ field\ of\ study,\ GPA,\ Class\ name,\ and\ fulltime\ status\n\ @return\ studentObjectString\ Returns\ a\ String\ representing\ the\ object\n
+numComments=3

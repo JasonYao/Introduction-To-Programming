@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=initName
+comment0.target=Parrot(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ speak()
+numComments=2

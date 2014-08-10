@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ filter\ \n\ performs\ the\ filter\ that\ mimics\ the\ data\ capture\n\ of\ a\ digital\ camera\n\ @param\ pi\ The\ PixelImage\ object\ to\ provide\ the\ filter\n
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cardNbr\ newName\ newSecurityCode
+comment0.target=CreditCardC(int,\ java.lang.String,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CreditCardC\n
+comment1.params=
+comment1.target=int\ getCardNumber()
+comment1.text=\n\ Gets\ the\ number\ of\ this\ credit\ card\n\n\ @return\ \ \ \ \ card\ number\ \n
+comment2.params=other
+comment2.target=boolean\ equals(CreditCardC)
+comment2.text=\n\ @returns\ true\ when\ other\ is\ equivalent\ to\ this\ CreditCardC\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ a\ String\ representation\ of\ this\ CreditCardC\n
+numComments=4

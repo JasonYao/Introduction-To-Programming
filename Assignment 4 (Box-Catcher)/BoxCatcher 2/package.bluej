@@ -1,0 +1,26 @@
+#BlueJ package file
+package.editor.height=201
+package.editor.width=393
+package.editor.x=336
+package.editor.y=1081
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.editor.height=700
+readme.editor.width=900
+readme.editor.x=0
+readme.editor.y=0
+target1.editor.height=952
+target1.editor.width=2867
+target1.editor.x=2
+target1.editor.y=6
+target1.height=50
+target1.name=BoxCatcher
+target1.naviview.expanded=true
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=90
+target1.x=60
+target1.y=10

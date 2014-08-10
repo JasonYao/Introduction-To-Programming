@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=initName\ initIDNum\ initSalary\ initDepartment
+comment0.target=Support(java.lang.String,\ int,\ int,\ java.lang.String)
+comment0.text=\n\ [CONSTRUCTOR]\ Initializes\ the\ salary,\ name,\ department\ and\ ID\ number\ attibute\ for\ any\ UP\ support\ staff\ members\n\ @param\ initName\ The\ name\ of\ the\ staff\ member\n\ @param\ initIDNum\ The\ ID\ number\ of\ the\ staff\ member\n\ @param\ initSalary\ The\ annual\ salary\ the\ staff\ member\ gets\n\ @param\ initDepartment\ The\ department\ the\ support\ staff\ is\ serving\ in\ (i.e.\ mailing,\ custodial,\ etc.)\n
+comment1.params=
+comment1.target=java.lang.String\ getDepartment()
+comment1.text=\n\ [ACCESSOR]\ Gets\ the\ support\ staff's\ department\n\ @return\ supportDepartment\ Returns\ the\ support\ staff's\ department\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ [ACCESSOR]\ Gives\ a\ String\ representation\ of\ the\ object,\ showing\ a\ support\ staff's\ ID\ number,\ name,\ and\ department\n\ @return\ supportStaffObjectString\ Returns\ a\ String\ representing\ the\ object\n
+comment3.params=supportComparedTo
+comment3.target=boolean\ equals(Support)
+comment3.text=\n\ [ACCESSOR]\ Returns\ true\ if\ the\ support\ staff\ member's\ salary\ is\ equal\ to\ another's,\ and\ is\ in\ the\ same\ department\n\ @param\ supportStaffComparedTo\ Staff\ object\ being\ compared\ to\n\ @return\ equalTrue\ set\ to\ true\ if\ the\ salary\ is\ equal\ to\ another's\ salary,\ and\ if\ both\ are\ in\ the\ same\ department\n
+numComments=4

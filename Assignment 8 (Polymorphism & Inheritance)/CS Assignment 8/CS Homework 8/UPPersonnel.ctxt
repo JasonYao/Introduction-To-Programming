@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initName\ initIDNum
+comment0.target=UPPersonnel(java.lang.String,\ int)
+comment0.text=\n\ [CONSTRUCTOR]\ Initializes\ a\ UPPersonnel\ object\ with\ their\ ID\ number\ and\ name\n\ @param\ initName\n\ @param\ initIDNum\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ [ACCESSOR]\ Gets\ the\ name\ of\ the\ personnel\n\ @return\ name\ the\ name\ of\ the\ personnel\n
+comment2.params=
+comment2.target=int\ getIDNum()
+comment2.text=\n\ [ACCESSOR]\ Gets\ the\ ID\ number\ of\ the\ personnel\n\ @return\ idNum\ the\ ID\ number\ of\ the\ personnel\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Overrides\ the\ toString\ method\ to\ represent\ the\ object\ based\ upon\ the\ person's\ name\ and\ ID\ number\n\ @return\ The\ string\ representation\ of\ the\ object\n
+comment4.params=personnelComparedTo
+comment4.target=boolean\ equals(UPPersonnel)
+comment4.text=\n\ Overrides\ the\ equals\ method\ to\ equate\ a\ personnel\ if\ their\ names\ are\ the\ same\n\ @param\ personnelComparedTo\ the\ other\ UP\ Personnel\ object\n\ @return\ equalsboolean\ returns\ true\ if\ the\ objects\ names\ are\ equal\n
+numComments=5

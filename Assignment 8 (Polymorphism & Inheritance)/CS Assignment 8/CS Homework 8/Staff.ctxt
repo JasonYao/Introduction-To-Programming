@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=initName\ initIDNum\ initSalary
+comment0.target=Staff(java.lang.String,\ int,\ int)
+comment0.text=\n\ [CONSTRUCTOR]\ Initializes\ the\ salary,\ name\ and\ ID\ number\ attibute\ for\ any\ UP\ staff\ members\n\ @param\ initName\ The\ name\ of\ the\ staff\ member\n\ @param\ initIDNum\ The\ ID\ number\ of\ the\ staff\ member\n\ @param\ initSalary\ The\ annual\ salary\ the\ staff\ member\ gets\n
+comment1.params=
+comment1.target=int\ getSalary()
+comment1.text=\n\ [ACCESSOR]\ Gets\ the\ salary\ of\ the\ staff\ member\n\ @return\ staffSalary\ Annual\ salary\ amount\ of\ the\ staff\ member,\ in\ pennies\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\n\ [ACCESSOR]\ Outputs\ an\ object\ into\ a\ string\ format\ that\ includes\ the\ staff\ member's\ name,\ ID\ number\ and\ salary\n\ @return\ outPutString\ the\ object\ in\ a\ String\ output\n
+comment3.params=staffComparedTo
+comment3.target=boolean\ equals(Staff)
+comment3.text=\n\ [ACCESSOR]\ Returns\ true\ if\ the\ staff\ member's\ salary\ is\ equal\ to\ another's\n\ @param\ staffComparedTo\ Staff\ object\ being\ compared\ to\n\ @return\ equalTrue\ set\ to\ true\ if\ the\ salary\ is\ equal\ to\ another\ staff\ object\n
+numComments=4

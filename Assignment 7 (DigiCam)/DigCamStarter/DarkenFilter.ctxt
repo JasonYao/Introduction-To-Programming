@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=void\ filter(PixelImage)
+comment0.text=\n\ filter\n\ darkens\ an\ image\n\ \n\ @param\ image\ The\ PixelImage\ object\ that\ is\ being\ modified\n
+numComments=1

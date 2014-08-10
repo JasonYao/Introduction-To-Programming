@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=void\ filter(PixelImage)
+comment0.text=\n\ Filter\n\ Identifies\ the\ edges\ inside\ the\ photo,\ changes\ the\ composition\ of\ the\ photo\ based\ upon\ the\ edges\n\ \n\ @param\ image\ The\ PixelImage\ object\ that\ is\ being\ modified\n
+comment1.params=i\ j\ brightness
+comment1.target=boolean\ checkValid(int,\ int,\ int[][])
+comment1.text=\n\ Helper\ Method\:\ Helps\ check\ for\ validity,\ and\ that\ it\ doesn't\ go\ out\ of\ bounds\ in\ the\ array\n\ @param\ i\ \ \ \ \ \ \ \ \ \ \ Input\ row\ to\ be\ checked\n\ @param\ j\ \ \ \ \ \ \ \ \ \ \ Input\ column\ to\ be\ checked\n\ @param\ brightness\ \ Brightness\ array\ in\ order\ to\ check\ the\ bounds\n\ @return\ boolean\ \ \ \ True\ if\ it\ is\ inside\ the\ bounds,\ false\ if\ outside\ of\ bounds\n
+comment2.params=i\ j\ brightness\ originalX\ originalY
+comment2.target=boolean\ checkBrightness(int,\ int,\ int[][],\ int,\ int)
+comment2.text=\n\ Helper\ Method\:\ Checks\ the\ brightness\ of\ the\ pixel,\ and\ marks\ it\ as\ an\ edge\n\ @param\ i\ \ \ \ \ \ \ \ \ \ Input\ row\ to\ be\ compared\ to\n\ @param\ j\ \ \ \ \ \ \ \ \ \ Input\ column\ to\ be\ compared\ to\n\ @param\ brightness\ Brightness\ array\ to\ see\ which\ \n\ @param\ originalX\ \ Original\ row\ compared\ to\n\ @param\ originalY\ \ Original\ column\ compared\ to\n\ @return\ boolean\ \ \ True\ if\ the\ difference\ is\ larger\ than\ the\ stated\ constant,\ false\ if\ it\ is\ less\ than\ the\ constant\n
+comment3.params=brightness\ row\ col
+comment3.target=boolean\ checkSurrounding(int[][],\ int,\ int)
+comment3.text=\n\ Helper\ method\:\ [CHECK\ SURROUNDING]\ Keeps\ the\ count\ of\ valid\ surrounding\ brightnesses\n\ @param\ brightness\n\ @param\ row\n\ @param\ col\n\ @return\ boolean\ Returns\ true\ if\ the\ value\ is\ an\ edge\n
+numComments=4

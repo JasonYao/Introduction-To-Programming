@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initName\ initIDNum\ initSalary\ initTenure\ initRanking
+comment0.target=Faculty(java.lang.String,\ int,\ int,\ boolean,\ int)
+comment0.text=\n\ [CONSTRUCTOR]\ Initializes\ the\ salary,\ name,\ department\ and\ ID\ number\ attibute\ for\ any\ UP\ faculty\ members\n\ @param\ initName\ The\ name\ of\ the\ staff\ member\n\ @param\ initIDNum\ The\ ID\ number\ of\ the\ staff\ member\n\ @param\ initSalary\ The\ annual\ salary\ the\ staff\ member\ gets\n\ @param\ initTenure\ Whether\ the\ professor\ has\ tenure\ at\ the\ university\n\ @param\ initRanking\ The\ ranking\ of\ the\ professor\ based\ upon\ student\ reviews\n
+comment1.params=
+comment1.target=boolean\ getTenure()
+comment1.text=\n\ [ACCESSOR]\ Gets\ the\ faculty\ member's\ tenure\ status\n\ @return\ tenureTrue\ Returns\ the\ faculty\ member's\ tenure\ status\n
+comment2.params=
+comment2.target=int\ getRanking()
+comment2.text=\n\ [ACCESSOR]\ Gets\ the\ faculty\ member's\ ranking\n\ @return\ facultyRanking\ Returns\ the\ faculty\ member's\ ranking\ from\ student\ evaluations\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ [ACCESSOR]\ Gives\ a\ String\ representation\ of\ the\ object,\ showing\ a\ faculty\ member's\ ID\ number,\ name,\ and\ ranking\n\ @return\ facultyObjectString\ Returns\ a\ String\ representing\ the\ object\n
+comment4.params=facultyComparedTo
+comment4.target=boolean\ equals(Faculty)
+comment4.text=\n\ [ACCESSOR]\ Returns\ true\ if\ the\ faculty\ member's\ ranking\ is\ equal\ to\ another's\ ranking\n\ @param\ facultyComparedTo\ Staff\ object\ being\ compared\ to\n\ @return\ equalTrue\ set\ to\ true\ if\ the\ ranking\ is\ equal\ to\ another's\ ranking\n
+numComments=5

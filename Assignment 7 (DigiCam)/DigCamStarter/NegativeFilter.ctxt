@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=void\ filter(PixelImage)
+comment0.text=\n\ Filter\n\ Makes\ the\ image\ into\ a\ negative\n\ \n\ @param\ image\ The\ PixelImage\ object\ that\ is\ being\ modified\n
+numComments=1

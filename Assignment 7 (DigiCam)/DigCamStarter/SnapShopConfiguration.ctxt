@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=theShop
+comment0.target=void\ configure(SnapShop)
+comment0.text=\n\ configure\n\ Method\ to\ configure\ the\ SnapShop.\ \ \n\ Call\ methods\ like\ addFilter\n\ and\ setDefaultFilename\ in\ this\ method.\n\ @param\ theShop\ \ \ The\ SnapShop\ application\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \n\ main\n\ creates\ a\ new\ SnapShop\ object\n
+numComments=2

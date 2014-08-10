@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=pi
+comment0.target=void\ filter(PixelImage)
+comment0.text=\ \n\ filter\n\ flips\ pixel\ image\ horizontally\ around\ vertical\n\ center\ line\n\ @param\ pi\ The\ PixelImage\ object\ to\ modify\n
+numComments=1

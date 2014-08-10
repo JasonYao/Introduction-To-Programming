@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=void\ filter(PixelImage)
+comment0.text=\n\ filter\n\ Demosaic's\ an\ image\n\ \n\ @param\ \ image\ \ \ The\ PixelImage\ object\ that\ is\ being\ modified\n
+comment1.params=data\ row\ col
+comment1.target=boolean\ checkValid(Pixel[][],\ int,\ int)
+comment1.text=\n\ Helper\ method\:\ Checks\ the\ validity\ of\ the\ row\ and\ column,\ making\ sure\ that\ nothing\ goes\ out\ of\ bounds\n
+comment2.params=image\ row\ col\ inputColour
+comment2.target=int\ calculateDiagonal(Pixel[][],\ int,\ int,\ int)
+comment2.text=\n\ Helper\ method\:\ [DIAGONAL]\ Keeps\ the\ count\ of\ valid\ surrounding\ colours,\ in\ order\ to\ identify\ the\ number\ that\ in\ the\ end\ is\ divided\ by.\n\ Checks\ top-left\ and\ top-right,\ bottom-left\ and\ bottom-right\ only.\n\ Returns\ the\ colour\ value\ based\ \n
+comment3.params=image\ row\ col\ inputColour
+comment3.target=int\ calculateHorizontal(Pixel[][],\ int,\ int,\ int)
+comment3.text=\n\ Helper\ method\:\ [HORIZONTAL]\ Keeps\ the\ count\ of\ valid\ surrounding\ colours,\ in\ order\ to\ identify\ the\ number\ that\ in\ the\ end\ is\ divided\ by.\ Checks\ left\ and\ right\ only\n
+comment4.params=image\ row\ col\ inputColour
+comment4.target=int\ calculateVertical(Pixel[][],\ int,\ int,\ int)
+comment4.text=\n\ Helper\ method\:\ [VERTICAL]\ Keeps\ the\ count\ of\ valid\ surrounding\ colours,\ in\ order\ to\ identify\ the\ number\ that\ in\ the\ end\ is\ divided\ by.\ Checks\ top\ and\ bottom\ only\n
+numComments=5
