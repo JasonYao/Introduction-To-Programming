@@ -2,7 +2,7 @@
 By Jason Yao
 
 ## Description
-A repository of any Java programmes made for "Intro to Computer Science (CS203)" 
+A repository of any Java programmes made for "Intro to Computer Science (CS 203)" 
 while at the University of Portland.
 
 Any code not my own is marked so, and their respective authors retain full rights. 
